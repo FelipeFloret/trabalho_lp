@@ -56,7 +56,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Mariana Suarez de Oliveira - Exercicio 3 (Carrinho de Compras) - (https://github.com/marizeraus/trab3lp)
 - Kassiano Vieira, João Henrique - Exercicio 3 (Carrinho de Compras) - https://github.com/KassianoV/LP_CarrinhoCompra
 - Igor Monárdez, Gabriel Silva - Exercício 4 (Data) - (https://github.com/prg-original/Datas_OO)
-- Felipe Floret Exercicio 7 (Pilha)
+- Felipe Floret Exercicio 7 (Pilha) - https://github.com/FelipeFloret/TrabalhoLP3
 - Carlos Eduardo - Exercício 6 - https://github.com/CarlosPaulista/EX6_LP
 - Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-3-lp)
 - Rafael Abrahão - Exercício 7 (Pilha) - https://github.com/rafiqueee/Pilha_OO
@@ -74,3 +74,4 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-4-lp)
 - Igor Monardez, João Henrique - Exercicio 4 (Data) - https://github.com/IgorMonardez/Trabalho-4-lp
 - Mariana Suarez - Exercicio 3 (Carrinho de Compras) - https://github.com/marizeraus/Trabalho-4
+- Felipe Floret Exercicio 7 (Pilha) - https://github.com/FelipeFloret/PilhaHaskell
